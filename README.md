@@ -11,7 +11,7 @@
 #pdf
 [pdf](https://www.adobe.com/acrobat/online/word-to-pdf.html) 
 
-https://www.adobe.com/acrobat/online/word-to-pdf.html?
+[[file:///home/user/somefile]](file:///C)
 
 
 
